@@ -6,3 +6,6 @@ A journey to the world's end.
 
 ## And so it continues...
 We have reached stranger tides. MAN OVERBOARD!
+
+## It's not over yet!
+On our way we came accross a flying dutchman. He said goedemorgen
